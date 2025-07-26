@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Akshaee
+## 👋 Hi there! I'm Akshaikumar
 
 I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path to becoming one of the greatest deep tech innovators in the EV and software world.
 
