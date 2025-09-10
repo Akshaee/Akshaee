@@ -20,7 +20,7 @@ I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path t
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
