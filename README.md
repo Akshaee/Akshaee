@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Akshaikumar
-      ##Hallo, ich bin Akshaikumar AR kommest aus in India
+      Hallo, ich bin Akshaikumar AR kommest aus in India
 
 I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path to becoming one of the greatest deep tech innovators in the EV and software world.
 
