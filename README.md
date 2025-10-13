@@ -1,4 +1,5 @@
 ## 👋 Hi there! I'm Akshaikumar
+      ##Hallo, ich bin Akshaikumar AR kommest aus in India
 
 I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path to becoming one of the greatest deep tech innovators in the EV and software world.
 
@@ -6,8 +7,7 @@ I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path t
 
 ### 🚀 What I'm doing now:
 - 🔧 Building projects using **JavaScript**, **Python**, and **Django**
-- 🌱 Learning **React**, **Data Structures**, and **Algorithms**
-- 🧑‍🏫 Teaching students to become future software engineers
+- 🌱 Learning and growing
 
 ---
 
@@ -36,7 +36,6 @@ I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path t
 
 ### ✨ Fun Facts:
 - I can code 10+ hours a day with full focus 🎯
-- I love teaching school kids how to become future developers
 - I believe in **learning deeply, building smartly, and dreaming boldly**
 
 ---
