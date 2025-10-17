@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Akshaikumar
      Hallo, ich bin AkshaiKumar, komme aus Indien
 
-I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path to becoming one of the greatest deep tech innovators in the EV and software world.
+I'm an aspiring **Full Stack Developer** from India 🇮🇳, building my path to becoming a python and react full stack developer.
 
 ---
 
